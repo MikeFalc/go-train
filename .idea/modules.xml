@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/app/app.iml" filepath="$PROJECT_DIR$/src/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/auth/auth.iml" filepath="$PROJECT_DIR$/src/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/go-train.iml" filepath="$PROJECT_DIR$/.idea/go-train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/go_train_routes/routes.iml" filepath="$PROJECT_DIR$/src/go_train_routes/routes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/storage/storage.iml" filepath="$PROJECT_DIR$/src/storage/storage.iml" />
+    </modules>
+  </component>
+</project>
